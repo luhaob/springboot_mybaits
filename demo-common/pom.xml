@@ -12,6 +12,11 @@
     <artifactId>demo-common</artifactId>
 
     <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
+        </dependency>
         <!--gson-->
         <dependency>
             <groupId>com.google.code.gson</groupId>
